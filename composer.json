@@ -1,0 +1,17 @@
+{
+    "name": "inaga/clientes",
+    "type": "project" ,
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Clients\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "japatech0",
+            "email": "inagakiamanda8@gmail.com"
+        }
+    ],
+    "require": {}
+}
